@@ -1,6 +1,6 @@
-File Shares and Permissions
+## File Shares and Permissions
 
-## 🎯 Objective
+## Objective
 Configure a shared folder in an Active Directory environment and control access using domain security groups, Share permissions, and NTFS permissions. Validate access from a domain-joined client machine.
 
 ## Security Groups
